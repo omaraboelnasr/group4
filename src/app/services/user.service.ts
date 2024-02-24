@@ -7,7 +7,8 @@ export class UserService {
 
   constructor() { }
   signup(){
-    
+  }
+  isLogedUser(){
   }
   login(){
     
