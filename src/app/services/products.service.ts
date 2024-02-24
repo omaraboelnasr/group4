@@ -3,17 +3,10 @@ import { Injectable } from '@angular/core';
 @Injectable({
   providedIn: 'root'
 })
-export class UserService {
+export class ProductsService {
 
   constructor() { }
-  signup(){
-    console.log("Hi");
-
-
-  }
-  isLogedUser(){
-  }
-  login(){
-
+  addPrd(){
+    
   }
 }
